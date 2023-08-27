@@ -1,6 +1,6 @@
 # ZLX Shred Packer®: The Sustainable Solution to Global Waste Management
 
-Over 9 months as a design engineer part of ZLX Technology, I designed the ShredPacker. This involved choosing components and desinging the full mechanism in accordance with these.
+Over 9 months as a design engineer part of ZLX Technology, I designed the ShredPacker. This involved choosing components and designing the full mechanism in accordance with these.
 ## Overview
 
 The ZLX Shred Packer® was designed to address the increasing challenges of waste management in public areas. Its state-of-the-art features enable the efficient processing of waste, reducing the need for frequent waste collection services.
